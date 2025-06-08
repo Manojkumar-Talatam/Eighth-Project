@@ -1,0 +1,96 @@
+Research on VPN Encryption and Privacy Features (Proton VPN):
+
+I used Proton VPN, which is known for its strong privacy policies and secure encryption standards.
+
+Encryption:
+
+Proton VPN uses AES-256 encryption, one of the most secure standards used worldwide, even by militaries and banks. This means all my internet traffic is encrypted so that no one — not even hackers or my Internet Service Provider (ISP) — can read my data.
+
+It also uses Perfect Forward Secrecy (PFS), which changes encryption keys regularly to ensure past sessions can't be decrypted, even if a future key is compromised.
+
+Protocols:
+
+Proton VPN supports multiple secure VPN protocols:
+
+OpenVPN (UDP/TCP) – A widely trusted and secure protocol.
+
+WireGuard – A newer, lightweight protocol that provides high speed with strong encryption.
+
+IKEv2/IPSec – Used especially for mobile devices.
+
+Here I used Wireguard protocol during the connection.
+
+Privacy Features:
+
+No-logs policy: Proton VPN does not store logs of user activity, ensuring privacy.
+
+Kill switch: Automatically cuts off internet access if the VPN connection drops, preventing data leaks.
+
+DNS leak protection: Prevents your DNS queries from being exposed.
+
+Tor over VPN: Lets you access the Tor network with an extra layer of encryption.
+
+Secure Core (Optional): Routes traffic through multiple servers (multi-hop) in privacy-respecting countries.
+
+Conclusion:
+
+Proton VPN provides a high level of privacy, security, and anonymity using advanced encryption techniques, strict no-log policies, and strong privacy features. It’s especially useful for securely browsing the internet, avoiding surveillance, and protecting data over public Wi-Fi.
+
+VPN Benefits and Limitations:
+ 
+Benefits of Using a VPN:
+
+1. Privacy Protection:
+
+  Hides your IP address and location.Prevents websites, ISPs, and trackers from monitoring your online activity.
+
+2. Encrypted Internet Traffic:
+
+   Uses strong encryption (e.g., AES-256) to protect data.Secure even on public Wi-Fi (like in cafes or airports).
+
+
+3. Bypass Geo-Restrictions:
+
+   Access content or websites blocked in your country (e.g., region-locked videos or apps).
+
+
+4. Avoid Censorship:
+
+   Helps access blocked websites in restrictive regions (like news, social media, etc.).
+
+
+5. Safe Torrenting:
+
+   Protects your identity when downloading files via P2P networks (if allowed by the VPN).
+
+Limitations of Using a VPN:
+
+1. Reduced Internet Speed:
+
+   VPN can slow down your connection due to encryption and rerouting through distant servers.
+
+2. Not Complete Anonymity:
+
+   A VPN hides your IP, but if you log in to your personal accounts (like Gmail, Facebook), those sites can still track you.
+
+3. Limited Free Plans:
+
+   Proton VPN's free tier has fewer server locations and may be slower during high traffic.
+
+4. May Not Bypass All Blocks:
+
+   Some services (like Netflix or banking websites) may block VPN traffic or require verification.
+
+5. Requires Trust in VPN Provider:
+
+   You must trust that the VPN provider (even Proton) really follows its no-log policy.
+
+6. Device Compatibility:
+    
+   Some devices (like Smart TVs or gaming consoles) require extra setup to use VPNs.
+
+
+
+
+
+
